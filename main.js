@@ -22,7 +22,4 @@ setInterval(z => {
 
         r(p, 70, 40, 4)
     } else t.fillText("GAME OVER", 11, 45)
-
-    // t.fillText("GAME OVER", 11, 45)
-    // if (e > 70) break;
 }, 32)
